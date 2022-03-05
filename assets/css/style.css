@@ -558,6 +558,11 @@ section {
 .about .count-box a:hover {
   color: #477392;
 }
+
+/* .by-tag {
+  float: right;
+} */
+
 .about .content {
   font-size: 15px;
 }
